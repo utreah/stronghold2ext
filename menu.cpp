@@ -5,10 +5,10 @@
 void printMenuInfo()
 {
 	DWORD procIId = GetProcessId(L"Stronghold2.exe");
-	std::cout << "\t\t\t\TUSLAR/AYARLAR" << std::endl;;
+	std::cout << "\t\t\t\KEYS/SETTINGS" << std::endl;;
 	if (procIId)
 	{
-		std::cout << "Oyun Bulundu! Oyunun client adi : " << "Stronghold2.exe" << std::endl;
+		std::cout << "Game Has Been Found! Process Name : " << "Stronghold2.exe" << std::endl;
 	}
 
 	std::cout << "[NUMPAD1] -> SINIRSIZ PARA/MUTLULUK/TAC [ON/OFF]" << std::endl;
