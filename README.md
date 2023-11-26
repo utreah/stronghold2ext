@@ -1,2 +1,2 @@
 # stronghold2ext
-Stronghold2 Basic External Trainer that I learnt from guidedhacking
+Stronghold2 Basic External Trainer
